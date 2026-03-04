@@ -66,7 +66,7 @@ Streamlit
 
 🔗 Click the following link for the live demo application
 
-👉 https://heart-disease-prediction-auwtbpnzjasg32669dqegj.streamlit.app/
+https://heart-disease-prediction-udappyxjak4fvwgu3gvyegy.streamlit.app/
 
 🎯 Objective
 
